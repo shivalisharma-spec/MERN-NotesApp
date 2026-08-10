@@ -125,6 +125,8 @@ h1{
 .card p{
     color:#555;
     margin-bottom:20px;
+    white-space: pre-line;
+    line-height: 1.6;
 }
 
 .card .buttons button{
